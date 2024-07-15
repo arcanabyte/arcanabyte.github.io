@@ -3,13 +3,13 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;">
-<img src="https://avatars.githubusercontent.com/arcanabyte" alt="logo do arcana byte"/>
-    <h1>Bem-vindo à Comunidade ArcanaByte</h1>
+<img src="https://avatars.githubusercontent.com/ArcaniaByte" alt="logo do arcana byte"/>
+    <h1>Bem-vindo à Comunidade ArcaniaByte</h1>
 </div>
 
 ---
 
-ArcanaByte é mais do que uma simples comunidade de programadores; é um espaço vibrante e inclusivo onde entusiastas da tecnologia se reúnem para compartilhar conhecimentos, explorar novas ideias e colaborar em projetos inovadores.
+ArcaniaByte é mais do que uma simples comunidade de programadores; é um espaço vibrante e inclusivo onde entusiastas da tecnologia se reúnem para compartilhar conhecimentos, explorar novas ideias e colaborar em projetos inovadores.
 
 ### Nossa Missão
 
@@ -17,7 +17,7 @@ Nosso objetivo é promover um ambiente onde a paixão pela programação se enco
 
 ### O Que Nos Define
 
-Na ArcanaByte, valorizamos:
+Na ArcaniaByte, valorizamos:
 
 - **Diversidade e Inclusão**: Celebramos a diversidade de origens, perspectivas e identidades, criando um espaço acolhedor para todos os membros, independentemente de sua raça, gênero, orientação sexual ou habilidades técnicas.
 
@@ -35,7 +35,7 @@ Na ArcanaByte, valorizamos:
 
 ### Compromisso com a Comunidade
 
-Na ArcanaByte, todos os membros são incentivados a aderir ao nosso código de conduta, promovendo um ambiente seguro, respeitoso e inclusivo para todos. Estamos comprometidos em ouvir nossos membros, responder às suas necessidades e continuar evoluindo como uma comunidade.
+Na ArcaniaByte, todos os membros são incentivados a aderir ao nosso código de conduta, promovendo um ambiente seguro, respeitoso e inclusivo para todos. Estamos comprometidos em ouvir nossos membros, responder às suas necessidades e continuar evoluindo como uma comunidade.
 
 ### Junte-se a Nós
 
@@ -43,4 +43,4 @@ Na ArcanaByte, todos os membros são incentivados a aderir ao nosso código de c
   
 ---
 
-Se você é um programador apaixonado em busca de um espaço onde sua voz seja ouvida, suas ideias sejam valorizadas e suas habilidades sejam desenvolvidas, a ArcanaByte é o lugar para você. Junte-se a nós enquanto exploramos juntos as fronteiras da tecnologia e construímos um futuro mais inclusivo e inovador.
+Se você é um programador apaixonado em busca de um espaço onde sua voz seja ouvida, suas ideias sejam valorizadas e suas habilidades sejam desenvolvidas, a ArcaniaByte é o lugar para você. Junte-se a nós enquanto exploramos juntos as fronteiras da tecnologia e construímos um futuro mais inclusivo e inovador.
