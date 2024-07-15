@@ -27,9 +27,9 @@ Na ArcaniaByte, valorizamos:
 
 ### O Que Oferecemos
 
-- **Fóruns de Discussão**: Um espaço para compartilhar ideias, fazer perguntas e receber feedback construtivo de colegas programadores.
+- **grupo de whatsapp**: Um espaço para compartilhar ideias, fazer perguntas e receber feedback construtivo de colegas programadores.
 
-- **Eventos e Workshops**: Workshops práticos, webinars educacionais e eventos sociais que incentivam o networking e a aprendizagem contínua.
+- **Meetup**: alguns vezes rola meetup online.
 
 - **Projetos Open Source**: Oportunidades para participar de projetos colaborativos de código aberto, onde cada membro pode contribuir com suas habilidades únicas.
 
