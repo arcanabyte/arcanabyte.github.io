@@ -39,6 +39,7 @@ Na ArcanaByte, todos os membros são incentivados a aderir ao nosso código de c
 ### Junte-se a Nós
 
 - **Link de Inscrição**: [Inscreva-se Aqui](link_para_inscrição)
+  
 ---
 
 Se você é um programador apaixonado em busca de um espaço onde sua voz seja ouvida, suas ideias sejam valorizadas e suas habilidades sejam desenvolvidas, a ArcanaByte é o lugar para você. Junte-se a nós enquanto exploramos juntos as fronteiras da tecnologia e construímos um futuro mais inclusivo e inovador.
