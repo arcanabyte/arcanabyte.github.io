@@ -1,9 +1,9 @@
-**Bem-vindo à Comunidade ArcanaByte**
 
 <div style="display: flex;
     align-items: center;
     justify-content: center;">
 <img src="https://avatars.githubusercontent.com/arcanabyte" alt="logo do arcana byte"/>
+    <h1>Bem-vindo à Comunidade ArcanaByte</h1>
 </div>
 
 ---
