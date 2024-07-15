@@ -1,5 +1,13 @@
 **Bem-vindo à Comunidade ArcanaByte**
 
+<div style="display: flex;
+    align-items: center;
+    justify-content: center;">
+<img src="https://avatars.githubusercontent.com/arcanabyte" alt="logo do arcana byte"/>
+</div>
+
+---
+
 ArcanaByte é mais do que uma simples comunidade de programadores; é um espaço vibrante e inclusivo onde entusiastas da tecnologia se reúnem para compartilhar conhecimentos, explorar novas ideias e colaborar em projetos inovadores.
 
 ### Nossa Missão
